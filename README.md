@@ -1,2 +1,2 @@
 # exercicios
- Exercicios e treinamentos
+ theme: Architect
