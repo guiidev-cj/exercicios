@@ -1,0 +1,60 @@
+/* configuração padrão */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: rgb(129, 129, 189);
+}
+
+/* header */
+
+header {
+    color: white;
+    padding: 10px;
+}
+
+/* main */
+
+main {
+    background-color: white ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
+    min-width: 400px;
+    max-width: 550px;
+    padding: 10px;
+    margin: auto;
+}
+
+main > div {
+    padding: 7px; 
+}
+
+div#txt {
+    font-size: 20px; 
+}
+
+div#container {
+    padding: 20px;
+}
+
+img {
+    width: 300px;
+    border-radius: 200px;
+    border: 2px solid rgba(0, 0, 0, 0.39);
+}
+
+/* footer */
+
+footer {
+    margin-top: 50px;
+    padding: 10px;
+    color: white;
+    background-color: rgba(167, 57, 57, 0.616);
+    height: 15px;
+    text-align: center;
+}
+

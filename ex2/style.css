@@ -1,0 +1,47 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1,h2,h3 {text-align: center;}
+
+body {
+    background-color: bisque;
+    color: white;
+}
+
+header {
+    color: black;
+}
+
+section {
+    border: 1px solid;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(179, 80, 80);
+}
+
+div {
+    margin-top: 10px;
+}
+
+div#form {
+    text-align: center;
+    border: 1px solid;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+}
+
+div#img {
+    
+}
+
+div#img {
+    text-align: center;
+}
+
+img {
+    border-radius: 150px;
+}
